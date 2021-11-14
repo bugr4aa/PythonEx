@@ -5,7 +5,7 @@ turtle.bgcolor('white')
 turtle.pensize(3)
 
 def func():
-	for i in range(200):
+	for i in range(400):
 		turtle.right(1)
 		turtle.forward(1)
 
